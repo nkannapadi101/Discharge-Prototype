@@ -68,7 +68,7 @@ if uploaded_file:
 
 # ——— Generation logic ———
 if generate_btn:
-    if not uploaded_file:
+    if not uploaded_file:·
         st.error("Please upload the patient information(.json) file first.")
     else:
         with st.spinner("Generating discharge summary…"):
