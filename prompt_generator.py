@@ -59,8 +59,10 @@ Now, write a discharge summary letter only using the patient's EHR data provided
         response = completion.choices[0].message.content
 
         # Log the interaction
-        logging.info(f'<system>\n{data}\n</system>')
+        logging.info(f'<cleaned_data>\n{cleaned_data}\n</cleaned_data>')
+        logging.info(f'<system>\n{system_prompt}\n</system>')
         logging.info(f'<user>\n{user_prompt}\n</user>')
+        logging.info(f'<addtional_info>\n{additional_info}\n</additional_info>')
         logging.info(f'<assistant>:\n{response}\n</assistant>')
 
         return response
