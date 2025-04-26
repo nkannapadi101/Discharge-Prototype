@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary provides a detailed account of the patient's condition, treatment, and immediate hospital course, covering major aspects like the initial diagnosis, treatment plan, and monitoring needs. However, it lacks specific discharge instructions, such as home care advice or details of potential rehabilitation services, which are crucial for a comprehensive discharge summary."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically structured and follows a clear narrative from admission through to the patient's condition at discharge. Each section flows well into the next, making it easy to follow and understand the patient's journey and the medical reasoning for treatment decisions."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 4,
+        "explanation": "The summary uses appropriate medical terminology and adheres to clinical documentation standards, such as correct use of medical abbreviations and ICD codes. Minor improvements could include providing full names for some drugs or treatments at first mention to ensure clarity for all readers, potentially including non-medical stakeholders."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "While the summary is professionally written, it lacks explicit expressions of empathy or a personal touch that can reassure the patient and family about care and recovery. Including more patient-centered language and emphasis on support and hope for recovery could enhance the compassionate aspect."
+    }
+}

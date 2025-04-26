@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary is generally complete, covering the patient's initial condition, diagnosis of STEMI, treatment with the MONAC protocol, and the issue with arranging PCI. It also mentions the follow-up recommendations and the need for ongoing monitoring. However, it could include more specific details on post-discharge medication and lifestyle recommendations."
+    },
+    "Coherence": {
+        "score": 4,
+        "explanation": "The summary is logically organized and flows well from presentation, diagnosis, treatment, to discharge. However, the mention of logistical challenges in contacting the catheterization lab could be integrated more smoothly into the narrative."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The letter uses appropriate medical terminology and abbreviations correctly, such as STEMI, ECG, and the MONAC protocol. The language is consistent with professional medical standards."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "While the summary provides clinical details effectively, it lacks a tone of empathy or reassurance. It focuses primarily on medical aspects and could benefit from a more compassionate tone regarding the patient's experience and future care."
+    }
+}

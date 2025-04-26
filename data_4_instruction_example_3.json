@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary covers major aspects of the patient's admission, diagnosis, and discharge instructions well. It includes information on diagnosis (STEMI), treatment received (MONAC protocol), and instructions for follow-up care. However, it could include more detail on the timing and duration of treatment, reasons for discharge without PCI due to logistical challenges, and specific lifestyle modifications recommended."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized and follows a clear narrative flow from admission to discharge. It is easy to understand and provides a coherent recount of the patient's hospital journey and future care plan."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 4,
+        "explanation": "The summary uses appropriate medical terminology and acronyms, such as STEMI and MONAC. However, it might benefit from defining less common terms, ensuring clarity for all readers. Overall, it meets professional standards."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary conveys a degree of empathy, particularly in the final statements wishing the patient recovery and inviting further contact for questions. It could be enhanced with more empathetic language throughout to reflect a more caring attitude."
+    }
+}

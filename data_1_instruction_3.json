@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary thoroughly covers the patient's condition, treatment during hospitalization, and follow-up care instructions, including medication details. However, it lacks specific personalized concerns or patient-specific limitations that might affect discharge plans, which would provide a more comprehensive overview."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized, detailing the progression from admission through discharge. It presents information in a clear and sequential manner, making it easy to follow the patient's journey and understand the treatment provided."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary adheres to professional standards with appropriate medical terminology, correct use of ICD-10 coding, and consistent formatting. Medical terms and abbreviations are used accurately, reflecting a high level of adherence to clinical documentation standards."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "While the letter is professional and indicates appreciation and assurance, it could have incorporated more personalized empathetic language to enhance the caring tone, such as acknowledging the discomfort experienced during hospitalization or expressing a more personal concern for ongoing recovery."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary covers the patient's condition, their treatment during the hospital stay, and recommendations for follow-up care adequately. However, it would benefit from including more details about the patient's medical history, specific medications given (doses and frequency), and the reason for the inability to complete PCI other than 'communication barriers.'"
+    },
+    "Coherence": {
+        "score": 4,
+        "explanation": "The summary is logically organized and follows a clear narrative flow. It provides a straightforward account of the patient's hospital course, treatment, and discharge planning. Minor improvements could be made by elaborating on the exact nature of the treatment timeline and decision-making process."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary appropriately uses medical terminology and references an ICD-10 code. It maintains a professional tone, and the use of abbreviations and medical terms seem consistent with clinical standards."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The letter conveys empathy through its tone and language, especially in wishing the patient a smooth recovery and continued health. However, it might be enhanced by including more personalized reassurance or acknowledgment of the patient's experience during their hospital stay."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 5,
+        "explanation": "The summary provides a comprehensive account of the patient's condition, diagnosis, treatment plan, and follow-up. It includes all relevant medical details, such as symptoms, diagnostic findings, treatment regimen, and discharge instructions. There are no significant omissions."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized, following a clear timeline from symptoms, diagnosis, treatment, and improvements through to discharge. It is easy to read and understand, maintaining a consistent narrative flow."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and abbreviations, aligning with professional standards. The use of ICD-10 code and detailed laboratory information reflects adherence to clinical norms."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary is professional and includes well-wishes for the patient's recovery, showing a reasonable degree of empathy. However, the language could be slightly more personalized to enhance the compassionate tone."
+    }
+}

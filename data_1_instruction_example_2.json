@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 5,
+        "explanation": "The summary covers all relevant aspects of the patient's condition, including symptoms, diagnosis, treatment, and follow-up care. There are no important details missing regarding the patient's clinical course, medication adjustments, and discharge plans."
+    },
+    "Coherence": {
+        "score": 4,
+        "explanation": "The summary is well-organized and follows a logical narrative from admission to discharge. However, there is a slightly abrupt transition between the medical details and the compassionate closing remarks, which could be smoother."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary adheres to professional medical standards, using appropriate medical terminology and adhering to a clear format. The use of ICD-10 coding and correct dosages reflects adherence to clinical standards."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary conveys a caring attitude towards the patient's recovery, especially in the closing remarks. However, the tone throughout the medical details remains clinical and could benefit from more empathetic language integrated with the clinical outcomes."
+    }
+}

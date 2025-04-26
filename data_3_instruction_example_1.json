@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary covers most relevant aspects of the patient's condition, including the initial presentation, test results, treatment, and follow-up care. It mentions the patient's neurological symptoms, treatment with Mannitol, and antihypertensive medications. It also details family discussions and ongoing care needs. However, more specific information regarding the type of stroke treatment or any rehabilitation plans could enhance the detail."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized, following a clear narrative flow from the patient's admission to discharge. Each section systematically outlines the sequence of medical evaluations, treatments, patient monitoring, and discharge instructions. It is easy to understand and well-structured."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary meets professional medical standards in terms of language, format, and terminology. Appropriate medical terminology, such as GCS, CT scan, intracerebral hemorrhage, and INR, is correctly used. The document maintains a formal professional tone, appropriate for a clinical summary."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary conveys empathy toward the patient with expressions of care for their recovery and detailed instructions for continued care. Mentioning family discussions and expressing wishes for the patient's recovery adds a considerate touch. However, the inclusion of more personalized patient-centric language could enhance the compassionate tone."
+    }
+}

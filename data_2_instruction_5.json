@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 5,
+        "explanation": "The summary thoroughly covers the patient's condition, including the initial symptoms, diagnosis, treatment (PCI and medication), and follow-up care. It provides a clear overview of the medication regimen and lifestyle modifications recommended for recovery. All relevant aspects appear to be addressed comprehensively."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized, starting with the admission details, diagnosis, treatment, hospital course, discharge plans, and follow-up care. The narrative flow is clear, making it easy for the patient and healthcare providers to understand the progression and management of the condition."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses correct medical terminology, such as 'acute transmural myocardial infarction' and 'Percutaneous Coronary Intervention (PCI).' Medication names and dosages are specified accurately. The format and language are appropriate for a professional medical document."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The letter conveys empathy through the initial well wishes and closing remarks. While it reflects a caring attitude and provides encouragement for the patient's recovery, it could benefit from more personalized expressions of empathy throughout the main body of the summary."
+    }
+}

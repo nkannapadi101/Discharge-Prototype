@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary provides a comprehensive view of the patient's condition, treatment, and advice for follow-up care. Most relevant aspects are covered, including symptoms, diagnostic findings, intervention protocols, and discharge advice. However, details about the future follow-up plan, such as specific dates or frequency of cardiology appointments, could enhance completeness."
+    },
+    "Coherence": {
+        "score": 4,
+        "explanation": "The summary is generally well-organized and follows a logical flow from admission to discharge. It describes the patient's journey through hospitalization with clear transitions between sections. A small improvement could be to explicitly mention the lack of angioplasty and the reasoning immediately after citing the diagnosis, to improve the flow of information."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and formatting consistent with professional standards. Abbreviations are used correctly, and clinical protocols are clearly defined, indicating a high level of adherence to clinical standards."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "While the summary is factual and polite, it could be more empathetic. Including more personalized statements or expressions of understanding towards the patient's experience could enhance the compassionate tone, making it reflect a more caring attitude towards the patient's recovery."
+    }
+}

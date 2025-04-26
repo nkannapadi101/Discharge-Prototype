@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 5,
+        "explanation": "The summary thoroughly covers the patient's condition, treatment details, including the specific diagnosis and intervention, and provides a comprehensive follow-up care plan. All relevant aspects of the patient's hospital stay and discharge care are covered without any important omissions."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is well-organized and logically structured, presenting information in a clear and understandable format. It follows a chronological order, making it easy to follow the patient's journey from admission to discharge."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The document adheres to professional medical standards, using appropriate medical terminology and standard abbreviations correctly. It maintains a formal tone appropriate for medical documentation."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary conveys care and provides reassurance to the patient, emphasizing cooperation during the hospital stay and offering support options for smoking cessation. However, the tone could be slightly more empathetic with more personalized encouragement for recovery."
+    }
+}

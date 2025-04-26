@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 3,
+        "explanation": "The summary provides a general overview of the patient's condition, treatment, and necessary follow-up care. However, it lacks specific details on the medication plan (such as dosages and any other prescribed drugs), and there's no detailed information about the support structure and services provided for at-home care, such as rehabilitation or nursing support. It also does not mention any symptoms or conditions to watch for that may necessitate immediate medical attention."
+    },
+    "Coherence": {
+        "score": 4,
+        "explanation": "The summary is logically organized and follows a clear narrative flow from admission through discharge. It effectively communicates the progression of the patient's condition and the care provided. Minor improvements could be made in linking the ongoing care needs with specific actions for clarity."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 4,
+        "explanation": "The summary uses appropriate medical terminology and generally adheres to professional standards. However, it lacks some details that are typically important in discharge summaries, such as specific dosages and a detailed follow-up plan. The use of medical acronyms like GCS is appropriate but could benefit from expansion for clarity."
+    },
+    "Compassion": {
+        "score": 5,
+        "explanation": "The summary conveys empathy and a caring attitude towards the patient, with warm wishes for recovery and emphasis on ensuring the patient's understanding of their care needs. The offer to assist with any questions or concerns further reflects compassion and support."
+    }
+}

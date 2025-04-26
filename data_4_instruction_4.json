@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary covers the key aspects of the patient's condition, including the initial diagnosis, treatment plan, and discharge instructions. However, some details such as the specifics of any medication prescribed at discharge and more detailed follow-up care instructions could be expanded upon."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is well-organized and presents information in a logical sequence. It is easy to understand and follows a clear narrative flow from admission through to discharge."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and abbreviations correctly, such as 'STEMI' and 'PCI'. The format adheres to professional standards for a discharge summary."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary conveys empathy and a caring attitude, wishing the patient well and encouraging them to contact the clinical team with questions. It could be slightly improved with more personalized, empathetic language to further emphasize care and support."
+    }
+}

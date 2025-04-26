@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary covers key aspects, including the reason for admission, hospital course, treatment regimen, recovery, discharge instructions, and follow-up care. However, it lacks specific patient identifiers and could benefit from more detailed discharge instructions, such as lifestyle or dietary recommendations for recovery."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized, beginning with the reason for admission and proceeding through the hospital course, treatment, and discharge information. It follows a clear narrative flow that is easy to understand."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and abbreviations correctly. It adheres to professional medical standards in language and format, providing clear information about the patient's treatment and condition."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary expresses satisfaction with the patient's progress and offers instructions that show concern for the patient's continued well-being. However, the summary could be slightly enhanced by including more empathetic language regarding the patient's individual experience and recovery journey."
+    }
+}

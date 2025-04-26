@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 5,
+        "explanation": "The discharge summary covers all relevant aspects of the patient's condition, treatment, and follow-up care. It includes details about the admission diagnosis, intervention, medication, recovery, lifestyle recommendations, and follow-up appointments. There are no noticeable omissions or missing details."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized and easy to understand. It follows a clear narrative flow, beginning with the admission details, treatment interventions, recovery progress, and finally discharge instructions. Each part of the patient's journey is described in a coherent manner."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary meets professional medical standards in terms of language, format, and terminology. It uses appropriate medical terminology and correctly employs abbreviations such as STEMI and PCI. The format is professional and consistent with standard medical discharge summaries."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary reflects a caring attitude, offering encouragement for the patient's recovery and emphasizing their well-being as a priority. However, the language, while empathetic, could be slightly more personalized to further enhance the compassionate tone."
+    }
+}

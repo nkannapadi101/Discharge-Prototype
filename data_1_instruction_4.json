@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary provides a comprehensive overview of the patient's hospitalization, including symptoms, diagnosis, treatment, and discharge instructions. However, it could include more specifics on follow-up care, such as any lifestyle recommendations or detailed information about the follow-up appointment beyond just the timeframe."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is well-organized and presents information in a logical sequence from admission to discharge. It is clear and easy to understand, following a coherent narrative flow."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and coding, and it adheres to medical standards in format and language, ensuring professionalism throughout the document."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary begins with a friendly salutation and ends with well-wishes for recovery, which conveys empathy. However, it could more explicitly acknowledge the patient's experience or express gratitude for their trust in the healthcare team to enhance the compassionate tone."
+    }
+}

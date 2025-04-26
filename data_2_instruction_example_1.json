@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary covers the patient's condition, treatment, and follow-up care well. It describes the initial symptoms, diagnosis, procedure, medication regimen, lifestyle changes, and follow-up plans. However, the summary could provide more specific details about any potential side effects of medications or warnings to look out for after discharge."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized and easy to follow. It presents information in a coherent manner, from the initial hospital admission through to discharge and follow-up instructions. The narrative flow is clear and descriptive."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary adheres to professional medical standards with correct use of medical terminology and abbreviations. The information is presented succinctly and appropriately, using standard medical language."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary shows compassion by emphasizing the importance of lifestyle changes and support systems for the patient's recovery. However, it could include more personalized expressions of empathy or encouragement to enhance the caring tone."
+    }
+}

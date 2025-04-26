@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary provides a comprehensive account of the patient's condition, treatment, and follow-up care instructions. However, it could include more details about the patient's history or specific instructions for home care to be fully complete."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized, starting with the reason for hospital admission and going through diagnosis, treatment, and discharge plans in a clear narrative flow."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and follows professional standards in language and format. Terminology such as 'intracerebral hemorrhage' and 'Glasgow Coma Scale' are used correctly."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "While the summary expresses understanding of the patient's situation and offers support, it could be enhanced with more personalized empathetic language towards the patient and their emotional experience."
+    }
+}

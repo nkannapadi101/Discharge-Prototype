@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 5,
+        "explanation": "The summary thoroughly covers the patient's condition, treatment, medications, and follow-up care. Important details such as symptoms, diagnosis, treatment steps, medication regimen, lifestyle recommendations, and follow-up appointments are included. There are no noticeable omissions."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized, with a clear structure beginning with the admission details, treatment details, recovery progress, discharge instructions, lifestyle recommendations, and follow-up care. It is easy to understand and follows a consistent narrative flow."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and abbreviations correctly, such as STEMI, PCI, and ECG. The format is professional, using standardized language for medical care and patient instructions."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary reflects a caring attitude by providing comprehensive information about lifestyle changes and encouraging adherence to heart health practices. However, it could benefit from a more personal touch, directly addressing the patient's feelings and concerns, to enhance the level of empathy."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 5,
+        "explanation": "The summary provides a comprehensive account of the patient's hospitalization, including the presentation of symptoms, diagnosis, treatments provided, and discharge instructions. All critical details about the condition, interventions, and follow-up care are well-documented."
+    },
+    "Coherence": {
+        "score": 4,
+        "explanation": "The summary is logically structured and follows a clear narrative, beginning with the patient's presentation at the hospital and concluding with discharge instructions. However, certain parts, like the unavailability of the cardiac catheterization lab, could be elaborated for clarity."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The use of medical terminology and abbreviations is appropriate and consistent with clinical standards. The format is professional, and language is clear and precise."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary includes thoughtful expressions of empathy, such as wishing the patient well and encouraging them to reach out with questions. However, further personalization or acknowledgment of the patient's concerns could enhance the empathetic tone."
+    }
+}

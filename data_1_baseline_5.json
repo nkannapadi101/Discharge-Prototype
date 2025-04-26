@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary covers the primary aspects of the patient's condition, including symptoms, diagnosis, treatment (initial and changes), and discharge plan. However, it could be improved by including more detailed follow-up care instructions and potential signs of complications to watch out for after discharge."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is well organized and follows a logical narrative from admission through to discharge, making it easy to understand."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and correctly formats clinical data. The ICD and DRG codes are accurately used, demonstrating adherence to professional medical language standards."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "The summary is factual and professional; however, it lacks expressive language that conveys empathy or a caring attitude toward the patient's recovery. To enhance compassion, it could include a short statement reflecting well wishes for the patient's continued recovery."
+    }
+}

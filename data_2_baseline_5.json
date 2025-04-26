@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 5,
+        "explanation": "The summary thoroughly covers all relevant aspects of the patient's admission, including the diagnosis, treatment details, medication regimen, discharge instructions, and follow-up care. It does not omit any critical information necessary for understanding the patient's condition and future health management."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The document is well-organized, following a clear and logical structure. The flow from admission details to treatment and discharge instructions is smooth, making it easy for the reader to comprehend the patient's journey and future care plan."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and adheres to professional standards. The language is precise, and abbreviations are used correctly. Medical interventions, medications, and tests are detailed accurately according to clinical guidelines."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary conveys a caring attitude towards the patient's recovery, emphasizing the importance of lifestyle modifications and offering support options. However, the letter could slightly enhance its empathetic tone by including more personal touches or expressing understanding of the patient's experience."
+    }
+}

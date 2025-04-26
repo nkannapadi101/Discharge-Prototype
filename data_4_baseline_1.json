@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 3,
+        "explanation": "The summary provides a reasonable overview of the patient's condition and treatment during their hospital stay. However, it lacks specific information such as follow-up appointments, medication regimens, lifestyle modifications, or referrals to specialists, which are crucial for continuity of care. Important details about discharge instructions and monitoring protocols are not thoroughly elaborated."
+    },
+    "Coherence": {
+        "score": 4,
+        "explanation": "The summary is generally coherent and presents the information in a logical sequence. It outlines the timeline of events clearly, starting from admission to discharge. However, minor improvements could be made to enhance clarity, such as specifying the sequence of interventions more clearly and discussing any collaborative efforts to resolve the catheterization lab issue."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 4,
+        "explanation": "The summary adheres well to clinical standards by using appropriate medical terminology and abbreviations like STEMI and ECG. The treatment protocols followed are standard, and the language is professionally appropriate. However, the summary could be enhanced by providing more detailed medical advice or rationale for the chosen interventions and the discharge decision."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary reflects an empathetic tone by wishing the patient good health and encouraging them to monitor their condition closely. It conveys a caring attitude towards the patient's recovery. However, adding more personalized comments acknowledging the patient's experience and any hardships endured could further enhance this aspect."
+    }
+}

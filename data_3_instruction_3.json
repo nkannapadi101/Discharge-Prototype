@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary covers most relevant aspects such as the patient's condition, treatment interventions, and follow-up care. However, it lacks specific details on the doses of antihypertensive medications and could provide more information on the rehabilitation plan."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is well-organized and follows a logical narrative flow, from admission through the treatment steps and discharge plan. It's clear and easy to follow."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and abbreviations, such as Glasgow Coma Scale and INR. The language is professional and meets clinical standards."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary reflects a caring attitude by acknowledging family discussions and offering home healthcare support. However, it could have included a more explicit expression of empathy regarding the patient's challenging situation."
+    }
+}

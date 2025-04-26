@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 5,
+        "explanation": "The summary provides a comprehensive account of the patient's condition, treatment, and follow-up care. It covers all necessary details, including the patient's symptoms, diagnosis, the intervention performed, medications prescribed, recommendations for lifestyle changes, and scheduled follow-up appointments."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized and easy to understand. It follows a clear narrative flow from the patient's symptoms and diagnosis through treatment, outcome, and discharge instructions. Each section transitions smoothly into the next, providing clarity and continuity."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary adheres to professional medical standards. It uses appropriate medical terminology and abbreviations correctly, providing all necessary information regarding the patient's medical condition and treatment in a clear, professional format."
+    },
+    "Compassion": {
+        "score": 5,
+        "explanation": "The summary conveys empathy and a caring attitude toward the patient. It expresses wishes for a smooth recovery, emphasizes the importance of health and well-being, and encourages the patient to reach out with any questions or concerns, reflecting a compassionate approach."
+    }
+}

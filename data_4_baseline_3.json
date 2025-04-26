@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 3,
+        "explanation": "The summary adequately covers the time frame of the hospital stay, the condition (STEMI), initial diagnostic results, and treatment plan. However, it lacks detailed follow-up care instructions and information about any medications prescribed upon discharge or lifestyle changes, which are crucial for continuity of care after discharge for a condition like STEMI."
+    },
+    "Coherence": {
+        "score": 4,
+        "explanation": "The summary is generally well-organized and follows a logical sequence from admission to discharge. Key events are ordered by date, allowing for clarity. However, more information about the resolution of the coordination issues with the catheterization lab would improve coherence."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 4,
+        "explanation": "Professional medical terminology is used appropriately, and the format is largely consistent with clinical standards. Recommendations are clear, although abbreviations like STEMI could potentially be confusing for patients and might benefit from a brief explanation."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "While the summary includes a polite closing and wishes the patient well, it feels somewhat clinical in tone. More empathetic language could be used to emphasize support for the patient\u2019s recovery and address any potential anxiety about the future after experiencing a serious condition like a myocardial infarction."
+    }
+}

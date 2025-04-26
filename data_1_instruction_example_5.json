@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 5,
+        "explanation": "The summary comprehensively covers the patient's condition, treatment, and follow-up care. It includes specific details about the patient's symptoms, vital signs, diagnosis, treatment regimen, progression, and discharge instructions. No important details seem to be missing."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized and follows a clear narrative flow. It effectively communicates the progression of the patient's condition from admission to discharge, making it easy to understand the sequence of events and decisions made."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary meets professional medical standards in terms of language, format, and terminology. Medical terms and abbreviations are used correctly, and the letter maintains a formal tone appropriate for a clinical document."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary conveys a professional and caring attitude towards the patient's recovery. While it includes empathetic language, such as wishing a smooth recovery, it could enhance compassion by including a more personalized message regarding the patient's experience during their stay."
+    }
+}

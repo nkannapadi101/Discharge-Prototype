@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary overall documents the patient's symptoms, diagnosis, treatment plan, response to therapy, and discharge instructions well. It includes detailed observations of clinical improvements and outlines the follow-up plan. However, it lacks details on the unspecified organism, which could be relevant if further investigation or notification to the patient is needed post-discharge."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically structured, following a clear timeline from admission through discharge. Each section flows naturally into the next, making it easy to follow the patient's progress and understand the medical decisions made. The narrative is easy to comprehend and professionally presented."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and correctly follows the format expected in a discharge summary. Medical abbreviations are clear, and the summary includes necessary clinical metrics like CRP and WBC levels, aligning with professional standards."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary includes a friendly tone by wishing the patient well and inviting them to reach out with questions. However, while it maintains a professional tone, additional phrases directly expressing empathy for the patient's experience or addressing any potential concerns might enhance the compassionate aspect."
+    }
+}

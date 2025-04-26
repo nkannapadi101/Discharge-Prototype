@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary covers major aspects of the patient's condition, including the initial event, diagnostic findings, and treatment plan. It mentions the CT scan results, laboratory tests, the medications used, and safety precautions. Follow-up care and recommendations are also included. However, it could be more comprehensive by detailing any specific plans for physical therapy or additional rehabilitation needs due to right-sided weakness."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is well-organized and follows a clear narrative flow. It presents information in a logical sequence, starting from the reason for hospital admission, findings, treatment, and follow-up care, which makes it easy to understand."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary adheres well to clinical standards, using appropriate medical terminology and abbreviations correctly, such as 'Glasgow Coma Scale (GCS)', and 'International Normalized Ratio (INR)'. The language and format are consistent with professional medical communication."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "While the summary is professional and courteous, it lacks more distinct expressions of empathy. It includes standard phrases expressing goodwill, but a more personalized acknowledgment of the patient's experience or challenges could enhance the feeling of compassion."
+    }
+}

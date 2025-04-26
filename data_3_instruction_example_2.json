@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary provides a comprehensive overview of the patient's condition, including the initial presentation, diagnostic findings, treatment interventions, and hospital course. However, it lacks specific details about the exact date of discharge or any specific follow-up appointments or services arranged, which are important for continuity of care."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized and follows a clear narrative flow from admission to discharge considerations. It clearly describes the sequence of events and clinical decisions made, making it easy to understand."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary adheres to clinical standards in terms of language, format, and terminology. Medical abbreviations and terms such as GCS, CT scan, and INR are used correctly and appropriately. The format is professional and in line with typical discharge summaries."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "While the summary wishes the patient a progressive recovery, it lacks a more personal touch or explicit expressions of empathy. The tone is clinical and could be improved by including more empathetic language or personalized statements addressing the patient's journey or emotional well-being."
+    }
+}

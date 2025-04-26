@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary provides a comprehensive overview of the patient's condition, diagnosis, treatment, and the discussions held with the family. However, details on specific outpatient follow-up plans or rehabilitation strategies post-discharge are not mentioned, which could be relevant for completeness."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized, detailing the timeline of events from admission through treatment to discharge plans. The narrative flow is clear and easy to follow, with chronological consistency in outlining the patient's condition."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary adheres to clinical standards, using appropriate medical terminology, such as Glasgow Coma Scale, INR, and mannitol regimen. It is formatted in a professional manner suitable for a clinical setting."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "While the summary addresses the patient's condition and communicates prognosis discussions with the family, it lacks empathetic language or expressions of care that could provide comfort or reassurance to the patient and their family."
+    }
+}

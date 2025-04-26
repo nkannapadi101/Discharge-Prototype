@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary covers the key aspects of the patient's condition, treatment, and follow-up care quite thoroughly. It discusses the diagnosis, initial presentation, treatment adjustments, and discharge instructions. However, more details about the patient's history, any underlying conditions, or potential risk factors for pneumonia could have been included for a higher score."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized and follows a clear narrative flow from admission to discharge. It is easy to understand, with well-structured sentences and a chronological presentation of the patient's hospital stay and treatment progression."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and follows a professional format. Abbreviations and medical terms are used correctly, and clinical data is presented in a clear manner that meets professional standards."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary reflects a caring attitude, particularly in the closing paragraph where gratitude and well wishes are expressed. However, more empathy could be shown in addressing the patient directly within the summary regarding their feelings or emotional state during the recovery process."
+    }
+}

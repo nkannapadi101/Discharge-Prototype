@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary is comprehensive, including details about the patient's condition, treatment, medication, laboratory findings, and follow-up care. However, it could be improved by including more specific discharge instructions and any potential side effects of the medications prescribed."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is well-organized and logically flows from initial presentation to discharge planning. It is easy to follow and maintains a clear narrative flow throughout."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "Medical terminology and abbreviations are used appropriately and correctly. The format adheres to typical discharge summaries found in clinical settings, meeting professional standards."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary conveys a caring tone, with adequate expressions of empathy for the patient's recovery. Nonetheless, adding more personalized statements that directly acknowledge the patient's experience could further enhance the compassionate aspect."
+    }
+}

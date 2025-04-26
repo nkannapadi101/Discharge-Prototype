@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary provides a thorough overview of the patient's initial condition, diagnosis, treatment, and discussions regarding the patient's prognosis with family. However, it could include more details on the follow-up plan or any specific rehabilitation efforts beyond monitoring and medication management."
+    },
+    "Coherence": {
+        "score": 4,
+        "explanation": "The summary is logically organized and easy to follow. It sequentially describes the patient's condition on admission, subsequent diagnostics, treatment, and discussions with the family. It could benefit from more explicit transitions between sections to enhance flow."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary adheres to professional medical standards, using appropriate terminology and abbreviations. The format of the letter is suitable for a clinical setting and conveys the necessary details accurately."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary conveys empathy through expressions of care and concern, such as wishing the patient a safe recovery and noting discussions with the family. However, it could include more personalized touches or direct empathetic statements to enhance the tone further."
+    }
+}

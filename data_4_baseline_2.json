@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary is generally comprehensive, covering the patient's condition, treatment with MONAC, and the lack of PCI due to constraints. It mentions the need for follow-up and lifestyle changes. However, it lacks specific details about the follow-up plan and any discharge medications or restrictions, which would have improved completeness."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized and follows a clear narrative flow. It presents information sequentially from admission to discharge, making it easy to understand."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and abbreviations like STEMI and MONAC correctly, following professional standards. Language is formal and precise, suitable for a clinical document."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary conveys a caring attitude towards the patient's recovery, expressing good wishes and an invitation to seek further care if needed. However, it could have shown more empathy by acknowledging the challenges faced during hospitalization, like the inability to perform PCI."
+    }
+}

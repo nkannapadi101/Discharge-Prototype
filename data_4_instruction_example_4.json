@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary includes the patient's initial complaint, diagnosis, treatment protocol, and follow-up recommendations. However, it lacks some details such as the patient's demographic information, past medical history, and the final results of other relevant lab findings. More information on the follow-up care plan could enhance its completeness."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized and flows well from the initial presentation to treatment and discharge plans. The narrative is clear and easy to follow."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 4,
+        "explanation": "The summary generally adheres to professional medical standards with appropriate use of medical terminology and abbreviations. However, there is a minor inconsistency: PCA is stated instead of PCI. Additionally, specifying the units for Troponin T levels would add precision."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary conveys a caring attitude and wishes the patient a speedy recovery. However, the tone is largely clinical, with minimal expressions of empathy beyond the closing remarks."
+    }
+}

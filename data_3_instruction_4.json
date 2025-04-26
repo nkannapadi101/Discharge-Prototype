@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary is thorough, covering the patient's condition, treatment, and initial follow-up care suggestions. It includes details about the incident leading to admission, diagnostic findings, treatment regimen, and prognosis discussions with the family. However, it lacks specific information on the expected timeline for stabilization or a follow-up appointment schedule after discharge."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is well-organized and logically structured, following a clear narrative from admission through diagnosis, treatment, and discharge plans. The information flows naturally and is easy to follow."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary effectively uses appropriate medical terminology and standard abbreviations, such as GCS and INR, which are correctly applied. The language is professional and meets medical standards."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "While the summary is factual and professional, it lacks a more personal touch. It could benefit from more empathetic language or expressions of understanding regarding the patient's emotional state and the challenges they may face in recovery."
+    }
+}

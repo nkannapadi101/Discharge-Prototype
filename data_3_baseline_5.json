@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 3,
+        "explanation": "The summary includes key information about the patient's condition, the treatment administered, and critical observations during the hospital stay. However, it lacks specific details on the names and dosages of antihypertensive medications, which would be important for full understanding. Additionally, follow-up care lacks specificity regarding appointment dates or further medical referrals, which are crucial for comprehensive discharge planning."
+    },
+    "Coherence": {
+        "score": 4,
+        "explanation": "The summary is logically organized, following a clear narrative from admission through to discharge planning. It is structured in a way that is easy to follow, starting with the initial condition, hospital interventions, patient progress, and ending with discharge instructions. Minor adjustments in transitioning between sections could enhance flow."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 4,
+        "explanation": "The summary uses appropriate medical terminology and abbreviations, such as GCS and INR, correctly. It maintains a professional tone and format consistent with medical documentation standards. A minor issue is the need for detailed medication regimens, which if included, would enhance adherence to clinical standards."
+    },
+    "Compassion": {
+        "score": 5,
+        "explanation": "The summary conveys empathy and a caring attitude, emphasizing the commitment to the patient's recovery and openness to addressing concerns. The language is supportive and assures the patient of continued guidance, reflecting a compassionate approach."
+    }
+}

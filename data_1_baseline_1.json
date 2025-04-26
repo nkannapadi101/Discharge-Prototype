@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary effectively covers the patient's condition, treatment, and follow-up care. However, it lacks specific details on the patient's past medical history, any allergies, or potential side effects of the prescribed medications, which could be important for comprehensive understanding."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized and easy to follow. It presents the information in a clear narrative flow from admission to discharge, detailing the patient's progress effectively."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and adheres to professional standards. The language is precise, and medical abbreviations are used correctly, such as CRP and oxygen saturation levels."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary conveys a caring attitude toward the patient's recovery, particularly in the closing paragraphs. However, incorporating more empathetic language throughout could enhance the perceived empathy further."
+    }
+}

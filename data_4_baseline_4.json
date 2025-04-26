@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary provides a comprehensive account of the patient's hospital stay, including the initial symptoms, the diagnosis of STEMI, treatment provided, and discharge instructions. However, it lacks specific details about the patient's current medication regimen upon discharge, as well as any specific lifestyle or dietary recommendations."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is well-organized and follows a logical progression from admission to discharge. It clearly presents the sequence of events and medical decisions, making it easy to understand."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 4,
+        "explanation": "The summary generally adheres to professional medical standards, using appropriate medical terminology and abbreviations. However, it uses some vague language, such as 'local guidelines' and 'desire to be discharged,' which could be clarified for precision."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "While the summary expresses a wish for the patient's recovery at the end, it lacks empathetic language throughout the document. It would benefit from a more compassionate tone that acknowledges the patient's experience and concerns during the hospital stay."
+    }
+}

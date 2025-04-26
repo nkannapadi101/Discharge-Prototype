@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary is comprehensive, detailing the patient's admission, diagnosis, treatment, and discharge plan. It covers the patient's current condition, treatment with Mannitol and antihypertensives, and the importance of follow-up care. However, it could include more specifics about the follow-up care\u2014such as specific appointments or additional therapies that might be recommended post-discharge."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is well-organized and flows logically from admission to discharge. Steps are discussed in chronological order, and the document is easy to follow with clear transitions between sections."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses correct medical terminology and abbreviations appropriately, such as GCS and INR. The format is professional, and the language is consistent with standard medical communications."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The letter starts and ends with compassionate statements, wishing the patient well and showing empathy. However, while appropriate, the summary is more clinical in tone throughout the middle sections and could be enhanced by more empathetic language regarding the patient's experience and challenges during the hospital stay."
+    }
+}

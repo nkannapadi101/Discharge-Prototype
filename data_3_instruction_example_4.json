@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary covers the key aspects of the patient's condition, including the initial presentation, diagnosis, treatment, and condition upon discharge. However, it lacks specific details about the discharge plan, such as potential rehabilitation programs, or mention of any dietary or activity recommendations that might be pertinent for stroke recovery."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically structured and easy to follow, providing a clear and sequential narrative of the patient's hospital course. Each section builds on the previous one, contributing to an understanding of the patient's ongoing medical situation."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary adheres to professional medical standards, using appropriate medical terminology such as 'hemorrhagic stroke', 'cerebral edema', 'antihypertensive medications', and 'Glasgow Coma Scale.' The format is concise and professional, with relevant abbreviations used correctly."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "While the summary is informative, it lacks a more personal tone that may convey empathy and reassurance. Phrases such as 'critical condition' could be softened with more compassionate language, and personal encouragement could be added to support the patient's emotional needs."
+    }
+}

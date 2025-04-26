@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary covers the patient's condition, treatment, and follow-up care thoroughly. It mentions the initial fall, diagnostic tests conducted, treatment plan, and ongoing care needs. However, it would be beneficial to include more specific follow-up instructions or referrals to specialists, which are currently missing."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically organized and easy to understand. It follows a clear narrative flow from admission to discharge, providing a coherent account of the patient's condition and hospital stay."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and abbreviations, such as CBC, INR, CT scan, GCS, and Mannitol. It adheres to professional medical standards in language, format, and terminology."
+    },
+    "Compassion": {
+        "score": 5,
+        "explanation": "The summary conveys empathy and a caring attitude towards the patient. It acknowledges the patient's anxieties and expresses a commitment to supporting their recovery, reflecting a compassionate approach."
+    }
+}

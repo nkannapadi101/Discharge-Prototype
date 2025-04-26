@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 5,
+        "explanation": "The summary comprehensively covers the patient's condition, including symptoms, diagnosis, treatment during the hospital stay, response to treatment, and discharge instructions. All relevant aspects of the patient's care and follow-up instructions are included without omissions."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is well-organized and follows a clear logical flow, detailing the admission, clinical course, treatment adjustments, and discharge instructions in a sequential and easy-to-understand manner."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary adheres to professional medical standards, utilizing appropriate medical terminology and proper format. Diagnoses codes are included, and medical abbreviations and terminology are used correctly."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary reflects a caring attitude toward the patient's recovery and expresses well-wishes. However, while it is professional and respectful, the empathetic tone could be enhanced slightly with more personalized remarks specific to the patient's journey."
+    }
+}

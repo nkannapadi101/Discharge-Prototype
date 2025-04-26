@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 5,
+        "explanation": "The summary comprehensively covers the patient's condition, treatment, and discharge instructions. It includes admission and discharge dates, vital signs, treatment details, and follow-up instructions. There are no significant omissions."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The document follows a logical structure, beginning with admission details, followed by the hospital course, clinical improvements, discharge condition, and follow-up instructions. It is easy to understand and well-organized."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary employs appropriate medical terminology and abbreviations, accurately describing the patient's condition and treatment. Formatting is consistent with professional medical communication standards."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary reflects a caring attitude by wishing the patient a 'swift and full recovery' and expressing availability for any concerns. However, it could be slightly more personalized in addressing the patient's emotional well-being."
+    }
+}

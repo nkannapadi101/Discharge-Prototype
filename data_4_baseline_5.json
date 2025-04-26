@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary provides an overview of the patient's condition, treatment, and recommendations for follow-up care. However, it lacks specific follow-up details, such as the date of the first cardiology appointment or additional lifestyle advice, which would ensure comprehensive discharge planning."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically structured, with a clear sequence from admission through treatment to discharge and follow-up recommendations. It is easy to understand, with each section following smoothly from the previous one."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 4,
+        "explanation": "The summary uses appropriate medical terminology and abbreviations, such as STEMI and PCI. It conveys the medical issues and procedures in a professional manner. However, some abbreviations (e.g., MONAC) and terms like 'bleep' might not be universally recognized, potentially causing confusion without further clarification."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "While the summary concludes with well-wishing, the tone throughout the document is clinical and lacks expressions of empathy or acknowledgment of the patient's emotional experience, which are essential components of compassionate communication."
+    }
+}

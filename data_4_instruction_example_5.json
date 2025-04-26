@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 3,
+        "explanation": "The summary includes the patient's admission details, diagnostic findings, treatment administered, and discharge condition. However, it lacks details on the patient's follow-up medication regimen and specific instructions other than seeing their GP. Missing information on long-term management plans or lifestyle modifications could help enhance completeness."
+    },
+    "Coherence": {
+        "score": 4,
+        "explanation": "The clinical summary is logically organized with a clear narrative flow from admission to discharge. The sequence of events is easy to follow, although the phrasing about logistical issues might cause slight confusion in understanding the outcome of the intended percutaneous coronary intervention."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 4,
+        "explanation": "The summary uses appropriate medical terminology and codes, such as STEMI and the ICD-10 code. However, there is a slight inconsistency in referring to 'percutaneous coronary intervention' as 'PCA', which could be confused with 'patient-controlled analgesia'. A minor formatting issue involves using 'MONAC protocol' without explaining the acronym in this context."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "While the summary provides recommendations for follow-up and wishes the patient well at the end, it lacks empathetic language throughout the majority of the document. More consistent compassionate language could enhance the overall tone."
+    }
+}

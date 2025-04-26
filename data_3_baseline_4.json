@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 3,
+        "explanation": "The summary covers several relevant aspects of the patient's condition, such as the diagnosis, treatment, and safety protocols. However, it lacks details about the long-term follow-up care and specific patient instructions upon discharge, such as physical therapy recommendations or appointments with specialists, which are important in a comprehensive discharge summary."
+    },
+    "Coherence": {
+        "score": 4,
+        "explanation": "The summary is logically organized and follows a clear narrative flow from admission to treatment and updates on the patient\u2019s condition. However, while the narrative makes sense, the flow could be slightly improved by more clearly delineating each section and its purpose."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary meets professional medical standards in terms of language, format, and terminology. It uses appropriate medical terms and abbreviations correctly, such as referencing the Glasgow Coma Scale, INR, and intracerebral hemorrhage."
+    },
+    "Compassion": {
+        "score": 3,
+        "explanation": "The summary opens and closes with compassionate statements. However, the middle section, where clinical details are provided, is more factual and lacks a consistent tone of empathy. More personalized expressions of care throughout the document would enhance the compassionate tone."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 4,
+        "explanation": "The summary includes most of the necessary details about the patient's condition, treatment received, and follow-up instructions. It covers the acute myocardial infarction, treatment protocol, and discharge instructions. However, details on the exact medication regimen at discharge are missing, and there's no mention of lifestyle advice or risk factor management, which are typically part of discharge planning for myocardial infarction."
+    },
+    "Coherence": {
+        "score": 4,
+        "explanation": "The summary is generally well-organized and follows a logical progression from admission to discharge. The narrative is clear, making it easy to understand the patient's journey through the hospital. Minor improvements could be made in further clarifying the sequence of events, particularly regarding the issues encountered with PCI and any subsequent changes to treatment."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary uses appropriate medical terminology and abbreviations consistent with professional standards, such as ECG, STEMI, and PCI. The language is formal and suitable for medical correspondence, ensuring clarity for both healthcare providers and patients."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "The summary conveys empathy and care, particularly through its closing remarks and emphasis on cooperation and smooth recovery. While it acknowledges the patient's discomfort and wishes, further expression of concern regarding the patient's ongoing recovery and emotional wellbeing could enhance the compassionate tone."
+    }
+}

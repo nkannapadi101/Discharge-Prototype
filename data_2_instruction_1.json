@@ -1,0 +1,18 @@
+{
+    "Completeness": {
+        "score": 5,
+        "explanation": "The summary comprehensively covers the patient's condition, treatment during hospitalization, and detailed follow-up care instructions, including medications, lifestyle changes, and scheduled follow-up appointments. There are no notable omissions of important details."
+    },
+    "Coherence": {
+        "score": 5,
+        "explanation": "The summary is logically structured, starting with the initial presentation, diagnosis, treatment, and concluding with discharge instructions and follow-up arrangements. The narrative flow is clear and easy to follow."
+    },
+    "Adherence to Clinical Standards": {
+        "score": 5,
+        "explanation": "The summary consistently uses appropriate medical terminology and abbreviations correctly. The format aligns with professional medical communication standards, presenting a clear and informative explanation of the patient's care."
+    },
+    "Compassion": {
+        "score": 4,
+        "explanation": "While the summary includes supportive language regarding the patient's ongoing recovery and offers advice on lifestyle changes, the tone could be slightly more empathetic. Small additions, such as personal encouragement or acknowledgment of the patient's experience, could enhance the compassionate tone."
+    }
+}
