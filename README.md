@@ -25,7 +25,7 @@ All raw data files are stored in the data/ directory. Ensure your input JSON fil
 Execution logs including de-identified data, system prompt, user prompt, additional information and generated results are recorded in `log.txt`. Check this file for detailed run information and troubleshooting. Note that we use different logging code fore experiement(`prompts.ipynb`) and actual generator (`prompt_generator.py`)
 
 ## Experiments
-We used prompts.ipynb to experiment with different 3 different Zero-shot propmting strategies, running 5 experiments for each data points. (60 files in total) Experiments results are organized in the `experiment/` folder in json format. 
+We used prompts.ipynb to experiment with different 3 different Zero-shot prompting strategies, running 5 experiments for each data points. (60 files in total) Experiments results are organized in the `experiment/` folder in json format. 
 
 ## Evaluation
 The quantative analysis conducted using GPT-4o are store in `evaluation/` directory. The folder contains evaluation individual evaluation results stored in json file and unified evaluation results saved in `evaluations.csv`. 
