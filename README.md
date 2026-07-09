@@ -1,4 +1,4 @@
-# 90-835 Spring 2025 Final Project: Discharge Summary Letter Generation
+# Discharge Summary Letter Generation
 
 This repository provides tools and experiments for automating the generation of patient discharge summary letters using prompt-based techniques. 
 
